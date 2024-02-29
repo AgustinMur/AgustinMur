@@ -6,7 +6,5 @@
 * 👨‍💻  My current projects:
 
 ### My Contact:
-Reference-style: 
-![alt text][logo]
+![alt text](instagarm.svg)
 
-[logo]: 
