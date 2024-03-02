@@ -6,6 +6,6 @@
 * 👨‍💻 My portfolio (in process):
 
 <h3>My Contact:</h3>
-<a href="https://www.linkedin.com/in/agustinmur21/"><img align="center" src="" alt="" height="30" width="40" /></a>
-<a></a>
+<a href="https://www.linkedin.com/in/agustinmur21/"><img align="center" src="https://github.com/AgustinMur/AgustinMur/assets/157962555/84660aba-919c-40f9-9714-6add71735f93" alt="AgustinMur" height="30" width="40" /></a>
+<a href="https://www.instagram.com/agusmur_/"><img align="center" src="" alt="AgustinMur" height="30" width="40" /</a>
 
